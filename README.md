@@ -1,4 +1,4 @@
-# 基于Pytorch的手写数字识别系统
+# 基于Pytorch的猫狗识别
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
